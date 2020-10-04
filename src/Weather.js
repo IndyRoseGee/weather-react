@@ -10,7 +10,7 @@ export default function Weather() {
         <ReactAnimatedWeather
           icon="RAIN"
           color="darkblue"
-          size="100"
+          size="170"
           animate="true"
         />{" "}
       </p>
